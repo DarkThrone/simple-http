@@ -1,0 +1,31 @@
+{
+  "name": "simple-http",
+  "version": "0.0.1",
+  "description": "Simple http library based off of Angular $httpProvider",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DarkThrone/simple-http.git"
+  },
+  "keywords": [
+    "http",
+    "ajax",
+    "javascript",
+    "promise",
+    "utility",
+    "microjs"
+  ],
+  "author": "Geronimo Garcia Sgritta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkThrone/simple-http/issues"
+  },
+  "homepage": "https://github.com/DarkThrone/simple-http",
+  "dependencies": {
+    "gulp": "~3.8.10",
+    "browserify": "~7.0.0"
+  }
+}
