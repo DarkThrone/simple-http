@@ -26,6 +26,11 @@
   "homepage": "https://github.com/DarkThrone/simple-http",
   "dependencies": {
     "gulp": "~3.8.10",
-    "browserify": "~7.0.0"
+    "browserify": "~7.0.0",
+    "bluebird": "~2.3.11",
+    "extend": "~2.0.0",
+    "gulp-browatchify": "0.0.0",
+    "vinyl-source-stream": "~1.0.0",
+    "trim": "0.0.1"
   }
 }
